@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Orange rounded-square background -->
+  <rect width="64" height="64" rx="14" fill="#FF6700"/>
+
+  <!-- Plate outer circle -->
+  <circle cx="32" cy="32" r="16" fill="none" stroke="white" stroke-width="2.5"/>
+  <!-- Plate inner ring -->
+  <circle cx="32" cy="32" r="10" fill="none" stroke="white" stroke-width="2.5"/>
+
+  <!-- Fork (left) -->
+  <line x1="10" y1="14" x2="10" y2="26" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="7"  y1="14" x2="7"  y2="20" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="10" y1="14" x2="10" y2="20" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="13" y1="14" x2="13" y2="20" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M7,20 Q10,23 13,20" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="10" y1="23" x2="10" y2="50" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Spoon (right) -->
+  <ellipse cx="54" cy="19" rx="4" ry="6" fill="none" stroke="white" stroke-width="2.5"/>
+  <line x1="54" y1="25" x2="54" y2="50" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
