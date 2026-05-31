@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/logo.svg" alt="RestaurantIQ Logo" width="180">
+  <img src="assets/logo.svg" alt="RestaurantIQ Logo" width="180">
 
   <h1>RestaurantIQ</h1>
   <p><b>Enterprise-Grade Restaurant Inventory Management System</b></p>
