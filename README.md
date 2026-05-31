@@ -24,7 +24,7 @@
 |----------|-----|
 | 🌐 **Live Application** | [RestaurantIQ Vercel App](https://restaurant-inventory-management-sys-six.vercel.app) |
 | 🔌 **Backend API** | [Railway Production API](https://restaurant-inventory-management-system-production.up.railway.app/api/dashboard/summary) |
-| 📂 **Repository** | [GitHub Source Code](https://github.com/BalakrishnaKini/restaurant-inventory-management-system) |
+| 📂 **Repository** | [GitHub Source Code](https://github.com/Balakrishna-kini/restaurant-inventory-management-system) |
 | 🎥 **Demo Video** | [Watch Demo Video](https://drive.google.com/file/d/1l2y3hDvwjL5MZ1dOPd_0mFalt7hMsABu/view?usp=sharing) |
 
 ---
