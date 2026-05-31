@@ -26,10 +26,10 @@ This backend is the engine powering RestaurantIQ. It handles database persistenc
 
 ```mermaid
 graph TD
-    Controller[REST Controllers<br/><b>JSON Endpoints</b>]
-    Service[Service Layer<br/><b>Business Logic (WAC)</b>]
-    Repository[Spring Data JPA<br/><b>Entity Repositories</b>]
-    DB[(MySQL 8.0<br/><b>Relational Data</b>)]
+    Controller["REST Controllers<br/><b>JSON Endpoints</b>"]
+    Service["Service Layer<br/><b>Business Logic (WAC)</b>"]
+    Repository["Spring Data JPA<br/><b>Entity Repositories</b>"]
+    DB[("MySQL 8.0<br/><b>Relational Data</b>")]
 
     Controller -- DTO Mapping --> Service
     Service -- Entities --> Repository

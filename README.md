@@ -54,10 +54,10 @@ RestaurantIQ utilizes a decoupled **DTO (Data Transfer Object)** architecture to
 
 ```mermaid
 graph TD
-    Client[Client-Side<br/><b>React & Vite SPA</b>]
-    Controller[API Gateway<br/><b>Spring REST Controllers</b>]
-    Mapper[DTO Mapping<br/><b>Service Layer & Mapper</b>]
-    DB[(Relational DB<br/><b>MySQL 8.0</b>)]
+    Client["Client-Side<br/><b>React & Vite SPA</b>"]
+    Controller["API Gateway<br/><b>Spring REST Controllers</b>"]
+    Mapper["DTO Mapping<br/><b>Service Layer & Mapper</b>"]
+    DB[("Relational DB<br/><b>MySQL 8.0</b>")]
 
     Client -- HTTP / JSON --> Controller
     Controller -- DTOs --> Mapper
